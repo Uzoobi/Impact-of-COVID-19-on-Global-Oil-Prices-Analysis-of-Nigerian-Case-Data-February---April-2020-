@@ -1,0 +1,2 @@
+# Impact-of-COVID-19-on-Global-Oil-Prices-Analysis-of-Nigerian-Case-Data-February---April-2020-
+Project Summary This analysis investigates the correlation between COVID-19 cases in Nigeria and fluctuations in global oil prices between February and April 2020. During the early months of the pandemic, COVID-19-related disruptions significantly impacted economic indicators, especially in oil-dependent economies like Nigeria.
